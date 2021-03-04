@@ -24,6 +24,6 @@ Copyright 2018 - The LineageOS Project.
 ## Build instructions
 ```
 # Compiling
-lunch cherish_enchilada-userdebug (this will auto pull all dependencies)
-brunch enchilada
+lunch nad_enchilada-userdebug (this will auto pull all dependencies)
+mka nad -jX
 ```
